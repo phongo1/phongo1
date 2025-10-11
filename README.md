@@ -12,7 +12,8 @@
 💻 I’ve interned at **Appian** and **Ellucian**, where I worked on scalable backend systems, AI-powered features, and internal developer tools.
 
 
-📫 **Links**
+
+📫 **Links:**
 
 [Portfolio](https://www.phongl.com)  
 [LinkedIn](https://www.linkedin.com/in/phongle1x/)  
