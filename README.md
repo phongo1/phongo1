@@ -1,15 +1,15 @@
 # Hey, I'm Phong 👋
+![rainbowline](https://github.com/user-attachments/assets/25073ce0-cd58-48f5-9adf-691250d350df)
 
 ![avatar-float](https://github.com/user-attachments/assets/e59f10a1-f91f-4120-af1e-a38213e721c7)
 
----------------------------------------------------------------------------------
+![rainbowline](https://github.com/user-attachments/assets/25073ce0-cd58-48f5-9adf-691250d350df)
+
 👨‍🎓 I'm a Computer Science student at UVA who likes building things that actually help people.
 
 👨‍💻 Lately I’ve been working on [FloodWatch.io](https://floodwatch.io) — a platform improving flood risk warning across Vietnam — and [theCourseForum](https://thecourseforum.com) - a course review platform simplifying course selection for students.
 
 💻 I’ve interned at **Appian** and **Ellucian**, where I worked on scalable backend systems, AI integrations, and internal developer tools.
-
----------------------------------------------------------------------------------
 
 
 📫 **Links**
@@ -17,6 +17,5 @@
 - [LinkedIn](https://www.linkedin.com/in/phongle1x/)  
 - [Email](mailto:phongl.hoa@gmail.com)
 
----------------------------------------------------------------------------------
 
 ![nyan-cat](https://github.com/user-attachments/assets/7d06061c-4c44-43d7-b126-e27623383796)
