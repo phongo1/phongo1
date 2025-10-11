@@ -17,5 +17,3 @@
 - [LinkedIn](https://www.linkedin.com/in/phongle1x/)  
 - [Email](mailto:phongl.hoa@gmail.com)
 
-
-![nyan-cat](https://github.com/user-attachments/assets/7d06061c-4c44-43d7-b126-e27623383796)
