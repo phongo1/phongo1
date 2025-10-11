@@ -5,9 +5,9 @@
 
 ![rainbowline](https://github.com/user-attachments/assets/25073ce0-cd58-48f5-9adf-691250d350df)
 
-👨‍🎓 I'm a Computer Science student at UVA who likes building things that actually help people.
+👨‍🎓 I'm a Computer Science student at UVA who enjoys building impactful software.
 
-👨‍💻 Lately I’ve been working on [FloodWatch.io](https://floodwatch.io) — a platform improving flood risk warning across Vietnam — and [theCourseForum](https://thecourseforum.com) - a course review platform simplifying course selection for students.
+👨‍💻 Lately I’ve been working on [FloodWatch.io](https://floodwatch.io) — a platform improving flood risk warning across Vietnam — and [theCourseForum](https://thecourseforum.com) - a course review platform assisting in course selection for UVA students.
 
 💻 I’ve interned at **Appian** and **Ellucian**, where I worked on scalable backend systems, AI-powered features, and internal developer tools.
 
