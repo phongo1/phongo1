@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Phong 👋
 
-<!--
-**phongo1/phongo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![avatar-float](https://github.com/user-attachments/assets/e59f10a1-f91f-4120-af1e-a38213e721c7)
 
-Here are some ideas to get you started:
+👨‍🎓 I'm a Computer Science student at UVA who likes building things that actually help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Lately I’ve been working on [FloodWatch.io](https://floodwatch.io) — a platform improving flood risk warning across Vietnam — and [theCourseForum](https://thecourseforum.com) - a course review platform simplifying course selection for students.
+
+```
+ .       .
+ |\_---_/|
+/   o_o   \
+|    U    |
+\  ._I_.  /
+ `-_____-'
+```
+
+💻 I’ve interned at **Appian** and **Ellucian**, where I worked on scalable backend systems, AI integrations, and internal developer tools.
+
+
+📫 **Links**
+- [Portfolio](https://www.phongl.com)  
+- [LinkedIn](https://www.linkedin.com/in/phongle1x/)  
+- [Email](mailto:phongl.hoa@gmail.com)
+
