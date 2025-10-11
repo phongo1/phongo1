@@ -9,7 +9,7 @@
 
 👨‍💻 Lately I’ve been working on [FloodWatch.io](https://floodwatch.io) — a platform improving flood risk warning across Vietnam — and [theCourseForum](https://thecourseforum.com) - a course review platform simplifying course selection for students.
 
-💻 I’ve interned at **Appian** and **Ellucian**, where I worked on scalable backend systems, AI integrations, and internal developer tools.
+💻 I’ve interned at **Appian** and **Ellucian**, where I worked on scalable backend systems, AI-powered features, and internal developer tools.
 
 
 📫 **Links**
