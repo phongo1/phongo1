@@ -1,7 +1,4 @@
 # 👋 I'm Phong 
-![rainbowline](https://github.com/user-attachments/assets/25073ce0-cd58-48f5-9adf-691250d350df)
-
-![avatar-float](https://github.com/user-attachments/assets/e59f10a1-f91f-4120-af1e-a38213e721c7)
 
 ![rainbowline](https://github.com/user-attachments/assets/25073ce0-cd58-48f5-9adf-691250d350df)
 
@@ -11,6 +8,7 @@ Lately I’ve been working on [FloodWatch.io](https://floodwatch.io) — a platf
 
 I’ve interned at **Appian** and **Ellucian**, where I worked on scalable backend systems, AI-powered features, and internal developer tools.
 
+![rainbowline](https://github.com/user-attachments/assets/25073ce0-cd58-48f5-9adf-691250d350df)
 
 
 **Links:**
